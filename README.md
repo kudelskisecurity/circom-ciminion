@@ -1,4 +1,4 @@
-# Implementation of the Ciminion AE cipher in circom2.
+# Implementation of the Ciminion AE cipher in circom2
 
 The code and the unit tests located in this repository are part of the
 blog post published at https://research.kudelskisecurity.com/
