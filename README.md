@@ -3,7 +3,7 @@
 The code and the unit tests located in this repository are part of the
 blog post published at https://research.kudelskisecurity.com/
 
-We have included a hardhat-circom configuration at `config/`.
+We have included our hardhat-circom configuration file at `config/`.
 
 # License
 
