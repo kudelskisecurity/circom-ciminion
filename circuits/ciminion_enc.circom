@@ -94,5 +94,5 @@ template CiminionEnc(nPairs) {
 }
 
 
-component main = CiminionEnc(50);
+component main = CiminionEnc(2);
 
