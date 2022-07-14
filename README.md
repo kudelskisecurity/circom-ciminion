@@ -1,7 +1,7 @@
 # Implementation of the Ciminion AE cipher in circom2
 
 The code and the unit tests located in this repository are part of the
-blog post published at https://research.kudelskisecurity.com/
+blog post published at https://research.kudelskisecurity.com/2022/05/02/implementing-a-zk-focused-authenticated-encryption-scheme/
 
 We have included our hardhat-circom configuration file at `config/`.
 
